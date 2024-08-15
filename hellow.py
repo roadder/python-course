@@ -4,3 +4,6 @@ def hello(name):
 
 hello("Roadder")
 
+
+name = "Eugene"
+hello(name)
